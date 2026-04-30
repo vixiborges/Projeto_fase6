@@ -145,8 +145,8 @@ Vídeo de até 5 minutos demonstrando:
 
 | Recurso | Link |
 |---------|------|
-| Notebook no Colab | [_(a inserir)_](https://colab.research.google.com/drive/1oG6Drbe4mRhXNc76KU8vYqv9En2IEWTh#scrollTo=be8a8325) |
-| Dataset no Google Drive | [_(a inserir)_](https://drive.google.com/drive/folders/1n3MPkPBAPAMKq4GeKvrNLLGgsJ-2n9dM?hl=pt-br) |
+| Notebook no Colab | (https://colab.research.google.com/drive/1oG6Drbe4mRhXNc76KU8vYqv9En2IEWTh#scrollTo=be8a8325) |
+| Dataset no Google Drive | (https://drive.google.com/drive/folders/1n3MPkPBAPAMKq4GeKvrNLLGgsJ-2n9dM?hl=pt-br) |
 | Vídeo no YouTube | _(a inserir)_ |
 
 
